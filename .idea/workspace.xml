@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08ddfba3-b1e8-4179-b830-5026995c7347" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/other.xml" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465331645887.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465649232617.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/test-classes/org/selenide/examples/GoogleTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465649982240.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466444820458.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465651328100.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466254327846.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466254740557.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250441402.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465652053342.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465653973320.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465647898802.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466444453504.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465652172684.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465635327607.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/surefire-reports/org.selenide.examples.GoogleTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465655078964.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465845261281.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466444934046.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465639734085.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465635766526.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465655829831.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250470104.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/src/main/resources/chromedriver.exe" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465635327607.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/google-test.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250483030.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466445862557.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465329260757.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466023801334.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465751636088.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465936467504.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250821782.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250771722.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465752226958.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465655378363.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250483030.2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465652159607.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465750620739.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/classes/chromedriver.exe" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250470104.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465655378363.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465936101297.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465649495298.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465761434824.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465641010896.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465650995951.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465936467504.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465652040869.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465761684211.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466249467540.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/google-test.iws" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__com_codeborne_selenide_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466442134473.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465652040869.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465640197677.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465654925547.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465649858403.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465649495298.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/src/main/java/org/selenide/examples/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465649858403.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465651328100.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250727309.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465652053342.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/classes/org/selenide/examples/App.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465649982240.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466023840842.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250727309.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465935827850.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465935827850.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465640197677.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466444024596.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465761684211.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465654925547.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465652159607.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465751636088.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465650995951.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465640868692.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465750620739.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466444453504.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465751259998.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250821782.2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250771722.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465653037401.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466443892122.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466023801334.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465329260757.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466444820458.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/src/test/java/org/selenide/examples/GoogleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/google-test.ipr" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465936101297.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465655078964.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466443892122.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250509857.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465641010896.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465635766526.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465752226958.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465331645887.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465653037401.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250509857.3.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466444934046.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465647898802.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465655829831.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465652172684.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466249467540.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466023840842.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466444024596.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466441735365.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/target/surefire-reports/TEST-org.selenide.examples.GoogleTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250848953.3.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465639734085.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_49_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250848953.3.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465761434824.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466250441402.0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466441735365.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466254327846.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1466254740557.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465751259998.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465649232617.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465640868692.0.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/google-test/build/reports/tests/1465845261281.0.html" afterPath="" />
+    </list>
+    <ignored path="geekhub.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="geekhub" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="geekhub" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ddfba3-b1e8-4179-b830-5026995c7347" name="Default" comment="" />
+      <created>1477243455444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477243455444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3003413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
